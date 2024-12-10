@@ -3,6 +3,11 @@ This project should cover:
 1. Two machines being able to communicate over the same network.
 2. Two machines being able to communicate over the two different networks.
 
+## Local Network
+
+1. Scan the machines on the network
+2. Get the list of the machines on the network
+
 Sending messages (like text)
 Sending files (any files)
 
